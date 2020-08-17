@@ -19,6 +19,7 @@
     "express-validator": "^5.3.1",
     "mongoose": "^5.10.0",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "uuidv1": "^1.6.14"
   }
 }
